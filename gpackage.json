@@ -1,0 +1,20 @@
+{
+	"author": {
+		"email": "info@s5solutions.com",
+		"name": "S5 Solutions, Inc.",
+		"url": "https://s5solutions.com"
+	},
+	"description": "LabVIEW library for automating a Most-Recently-Used list. Ties a Combo Box to an INI file.",
+	"keywords": [
+		"MRU"
+	],
+	"files": [
+		"MRU/"
+	],
+	"license": "MIT",
+	"lvversion": ">=14",
+	"name": "@s5/mru",
+	"private": false,
+	"repository": "https://github.com/S5Solutions/MRU.git",
+	"version": "1.0.0"
+}
