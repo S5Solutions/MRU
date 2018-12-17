@@ -16,5 +16,5 @@
 	"name": "@s5/mru",
 	"private": false,
 	"repository": "https://github.com/S5Solutions/MRU.git",
-	"version": "1.0.0"
+	"version": "1.0.1"
 }
